@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  box-sizing: border-box; /* Garante q altura elargura sejam calculadas, incluindo padding e borda. Evitando q ultrapassem o limite */
+  background-color: #edafb8;
+}
+
+.container {
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.titulo-blog {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.texto-destaque {
+  padding: 10px;
+  color: #636363;
+}
+
+.urgentes {
+  color: #eb2f2f;
+}
+
+.itens-container {
+  padding: 50px;
+  color: #636363;
+  display: flex;
+  align-items: flex-start;
+  height: 300px;
+}
+
+.responsivo-container {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
