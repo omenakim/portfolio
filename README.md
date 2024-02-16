@@ -2,11 +2,12 @@
 
 
 ## Ferramentas utilizadas:
-*HTML
-*CSS
-*Flex-box
+
+* HTML
+* CSS
+* Flex-box
 
 ## Feito por:
 ### Kim Omena
 
-### Linkedin: htpps:www.linkedin.com/kim-omena/
+### Linkedin: https://www.linkedin.com/in/kim-omena/
