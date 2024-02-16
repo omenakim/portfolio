@@ -1,8 +1,6 @@
 # Olá, bem vindo ao meu projeto de portifólio
 
-[Portolio](https://portfolio-git-main-kims-projects-2a5e1e98.vercel.app/)
-
-https://portfolio-git-main-kims-projects-2a5e1e98.vercel.app/
+[Portfolio - Click Aqui!](https://portfolio-git-main-kims-projects-2a5e1e98.vercel.app/)
 
 ## Ferramentas utilizadas:
 
